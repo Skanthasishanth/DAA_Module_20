@@ -1,4 +1,5 @@
 # EX 2A BACKTRACKING - RAT IN MAZE PROBLEM
+## DATE:
 ## AIM:
 To implement the Rat in a Maze problem using backtracking and find all possible paths from the start to the destination in a given maze.
 
